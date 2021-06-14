@@ -1,2 +1,4 @@
-# ML-Internship project with dataset
-Youtube Ad-view prediction
+# ML-Internship project
+Youtube Ad-view prediction using different algorithms and evaluating the best among them.
+
+
